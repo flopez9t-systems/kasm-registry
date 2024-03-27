@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Kasm Fran',
     description: 'Test workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://flopez9.github.io/kasm-registry/',
+    listUrl: 'https://flopez9t-systems.github.io/kasm-registry/',
     contactUrl: https://github.com/flopez9t-systems/kasm-registry/issues',
   },
   reactStrictMode: true,
