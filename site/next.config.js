@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Kasm Fran',
+    description: 'Test workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://flopez9.github.io/kasm-registry/',
+    contactUrl: https://github.com/flopez9t-systems/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
